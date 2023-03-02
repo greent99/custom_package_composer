@@ -1,0 +1,21 @@
+{
+    "name": "greent/custom-laravel-package",
+    "description": "the first composer package",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VanTai",
+            "email": "tainv.nta@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "greent\\TestCustomPackage\\": "src/"
+        }
+    }
+}
