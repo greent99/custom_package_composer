@@ -1,6 +1,6 @@
 <?php
 
-namespace greent\TestCustomPackage;
+namespace Greent\TestCustomPackage;
 
 class TestCustomPackage
 {

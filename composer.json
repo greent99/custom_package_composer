@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "greent\\TestCustomPackage\\": "src/"
+            "Greent\\TestCustomPackage\\": "src/"
         }
     }
 }
